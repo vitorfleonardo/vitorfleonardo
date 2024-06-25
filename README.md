@@ -7,8 +7,8 @@
 ##
 
 - 👨🏻‍🎓 Software Engineering Student at University of Brasilia (UnB).
-- 💻 Mobile Developer of the Appidae Application in the Beekeeping 4.0 project.
-- 👨🏻‍💼 President of [EngNet Consultoria](https://engnetconsultoria.com.br/), Junior Technology Company.
+- 💻 Mobile Developer of the Appidae Application in the Beekeeping 4.0 project at UnB.
+- 👨🏻‍💼 President of [EngNet Consultoria](https://engnetconsultoria.com.br/), Junior Enterprise.
 
  <div style="margin-top: 10px" align="center">
   <a href="https://github.com/vitorfleonardo">

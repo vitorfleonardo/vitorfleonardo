@@ -9,6 +9,7 @@
 - 👨🏻‍🎓 Software Engineering Student at University of Brasilia (UnB).
 - 💻 Mobile Developer of the Appidae Application in the Beekeeping 4.0 project at UnB.
 - 👨🏻‍💼 President of PMIDF Student Club.
+- 💻 Reseacher at ITRAC - Information, Technology, Research and Application Center.
 
  <div style="margin-top: 10px" align="center">
   <a href="https://github.com/vitorfleonardo">
